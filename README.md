@@ -1,2 +1,2 @@
-# Darcula Solid Theme
-A dark theme based on Darcula, but with MORE contrasting & solid tones.
+# Darcula Modified Solid Theme
+A fork of a Darcula solid theme with minor color modifications.

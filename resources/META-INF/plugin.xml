@@ -1,11 +1,11 @@
 <idea-plugin>
-  <id>com.vecheslav.darculaSolidTheme</id>
-  <name>Darcula Solid Theme</name>
-  <version>1.0.3</version>
-  <vendor email="vecheslavdruzhbin@gmail.com">Vecheslav Druzhbin</vendor>
+  <id>com.vhrmo.darculaSolidTheme</id>
+  <name>Modified Darcula Solid Theme</name>
+  <version>1.0.3.1</version>
+  <vendor email="vladimir.hrmo@gmail.com">Vladimir Hrmo</vendor>
 
   <description><![CDATA[
-      A dark theme based on Darcula, but with MORE contrasting & solid tones.
+      A fork of a Darcula solid theme with minor color modifications.
       <br/><br/>
 
       To install:
